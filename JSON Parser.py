@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 #Opens json file
-file_path = r"C:\Users\crinionr\Desktop\Mallory Projet\Mallory_Search.json"
+file_path = r"C:\Users\crinionr\Desktop\Hyperview-Asset-Report-Automation\Mallory_Search.json"
 f = open(file_path)
 data = json.load(f)
 
